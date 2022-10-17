@@ -5,10 +5,18 @@ $request = $_SERVER["REQUEST_METHOD"];
 $allowed_request = ["GET", "POST", "PUT", "DELETE"];
 if(isset($_post['student_id']))
 {
+  if(in_array($request,$allowed_request)){
+    
+  }else
+    array_push($errors,"'your http request is ilegal!");
+    $data = array(
+      "success" => false,
+      "http_code" => 400
+    );
+  }
   
 }
-else
-{
+else{
   array_push($errors,"'student_id' parameter is undefined!");
   $data = array(
     "success" => false,
