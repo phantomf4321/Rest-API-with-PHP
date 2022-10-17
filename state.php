@@ -12,6 +12,15 @@ if(isset($_post['student_id']))
       $date = $_POST['date']; //Recorded date YYYY/MM/DD
       $time = $_POST['time']; //Recorded hours H:i:s
       $type = $_POST['type']; //type of traffic (entry/exit)
+      
+      $sql = "INSERT INTO employee (name, day, time)
+      VALUES ($student_id, $date, $time)";
+
+      if ($conn->query($sql) === TRUE) {
+        echo "New record created successfully";
+      } else {
+        echo "Error: " . $sql . "<br>" . $conn->error;
+      }
     }
     
   }else
