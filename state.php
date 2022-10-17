@@ -6,6 +6,13 @@ $allowed_request = ["GET", "POST", "PUT", "DELETE"];
 if(isset($_post['student_id']))
 {
   if(in_array($request,$allowed_request)){
+    if($request == 'POST')
+    {
+      $student_id = $_POST['student_id']; //Registered id of the student in the device
+      $date = $_POST['date']; //Recorded date YYYY/MM/DD
+      $time = $_POST['time']; //Recorded hours H:i:s
+      $type = $_POST['type']; //type of traffic (entry/exit)
+    }
     
   }else
     array_push($errors,"'your http request is ilegal!");
