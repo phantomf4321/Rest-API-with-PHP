@@ -6,6 +6,8 @@
 -- Generation Time: Oct 17, 2022 at 05:19 PM
 -- Server version: 10.3.36-MariaDB
 -- PHP Version: 7.4.30
+-- C: Betavers.ir
+-- programingdepartment@betavers.com
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -29,12 +31,12 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `en_ex` (
-  `id` int(11) NOT NULL,
-  `date` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
-  `time` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
-  `type` int(11) NOT NULL,
-  `student_id` int(20) NOT NULL,
-  `device_id` int(20) NOT NULL
+  `id` int(11) NOT NULL, --id of tabble
+  `date` varchar(50) CHARACTER SET utf8mb4 NOT NULL,--Recorded date YYYY/MM/DD
+  `time` varchar(50) CHARACTER SET utf8mb4 NOT NULL,--Recorded time H:i:s
+  `type` int(11) NOT NULL,--type of trafic. 0 => exite , 1 => enter
+  `student_id` int(20) NOT NULL,--Recorded id of student in device
+  `device_id` int(20) NOT NULL--Recorded id of device
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
