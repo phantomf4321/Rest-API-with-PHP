@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Oct 17, 2022 at 05:14 PM
+-- Generation Time: Oct 17, 2022 at 05:19 PM
 -- Server version: 10.3.36-MariaDB
 -- PHP Version: 7.4.30
 
@@ -30,9 +30,11 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `en_ex` (
   `id` int(11) NOT NULL,
-  `date` varchar(50) NOT NULL,
-  `time` varchar(50) NOT NULL,
-  `type` int(11) NOT NULL
+  `date` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
+  `time` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
+  `type` int(11) NOT NULL,
+  `student_id` int(20) NOT NULL,
+  `device_id` int(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
