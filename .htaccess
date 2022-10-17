@@ -1,0 +1,2 @@
+RewriteEngine on
+rewwriteRule state/(.*)$ state.php?token=$1 [QSA, L]
