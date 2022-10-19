@@ -2,7 +2,7 @@
 import requests
 
 # defining the api-endpoint
-API_ENDPOINT = "https://betavers.ir/API/vnd1/state.php"
+API_ENDPOINT = "*****"
 
 # your API key here
 
