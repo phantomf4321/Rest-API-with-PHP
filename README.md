@@ -1,4 +1,4 @@
-# Rest API with PHP
+## POST device information to Betavers API
 
 - Method: POST
 - url: Example.com/...path.../state.php
