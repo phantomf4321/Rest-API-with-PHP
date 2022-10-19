@@ -1,7 +1,7 @@
 # Rest API with PHP
 
 - Method: POST
-- url: .../state.php
+- url: Example.com/...path.../state.php
 - Database: MariaDB, MySQL
 - utf8mb4
 - you do not need token to run this API
@@ -37,7 +37,7 @@ This API will insert following data in data-base table. post yuor data to **"...
 Examaple code to post data:
 ```
 import requests
-API_ENDPOINT = "*****"
+API_ENDPOINT = "Example.com/...path.../state.php"
 
 student_id=121
 device_id=8
