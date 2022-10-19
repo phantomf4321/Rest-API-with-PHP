@@ -2,6 +2,8 @@
 
 - Method: POST
 - url: .../state.php
+- Database: MariaDB, MySQL
+- utf8
 
 structure of database:
 ```
