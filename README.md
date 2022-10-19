@@ -21,4 +21,13 @@ ALTER TABLE `en_ex`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
 ```
-This API will insert following data in data-base table. post yuor data to **".../state.php** as bellow:
+This API will insert following data in data-base table. post yuor data to **".../state.php"** as bellow:
+
+```
+-----student_id //
+-----device_id //
+-----time //
+-----date //
+-----type //
+
+```
