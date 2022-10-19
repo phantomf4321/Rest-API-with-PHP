@@ -1,19 +1,19 @@
-# Rest-API-with-PHP
+# Rest API with PHP
 
 - Method: POST
 - url: .../state.php
 - Database: MariaDB, MySQL
-- utf8
+- utf8mb4
 
 structure of database:
 ```
 CREATE TABLE `en_ex` (
-  `id` int(11) NOT NULL, --id of tabble
-  `date` varchar(50) CHARACTER SET utf8mb4 NOT NULL,--Recorded date YYYY/MM/DD
-  `time` varchar(50) CHARACTER SET utf8mb4 NOT NULL,--Recorded time H:i:s
-  `type` int(11) NOT NULL,--type of trafic. 0 => exite , 1 => enter
-  `student_id` int(20) NOT NULL,--Recorded id of student in device
-  `device_id` int(20) NOT NULL--Recorded id of device
+  `id` int(11) NOT NULL,
+  `date` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
+  `time` varchar(50) CHARACTER SET utf8mb4 NOT NULL,
+  `type` int(11) NOT NULL,
+  `student_id` int(20) NOT NULL,
+  `device_id` int(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 ALTER TABLE `en_ex`
@@ -26,10 +26,10 @@ COMMIT;
 This API will insert following data in data-base table. post yuor data to **".../state.php"** as bellow:
 
 ```
------student_id //
------device_id //
------time //
------date //
------type //
+-----student_id //Recorded id of student in device
+-----device_id //id of device
+-----time //Recorded time H:i
+-----date //Recorded Jalali-date YYYY/mm/dd
+-----type //type of trafic. 0 => exite , 1 => enter
 
 ```
