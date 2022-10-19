@@ -5,12 +5,10 @@ $request = $_SERVER["REQUEST_METHOD"];
 $allowed_request = ["GET", "POST", "PUT", "DELETE"];
 if(isset($_POST['student_id']))
 {
-    //echo "hi";
   if(in_array($request,$allowed_request))
   {
     if($request == 'POST')
     {
-      //echo "h2";
       $student_id = $_POST['student_id']; //Registered id of the student in the device
       $date = $_POST['date']; //Recorded date YYYY/MM/DD
       $time = $_POST['time']; //Recorded hours H:i:s
