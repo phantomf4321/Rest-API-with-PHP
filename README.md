@@ -1,8 +1,5 @@
 # Rest API with PHP
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-
-
 - Method: POST
 - url: .../state.php
 - Database: MariaDB, MySQL
