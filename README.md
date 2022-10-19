@@ -1,7 +1,7 @@
 # Rest-API-with-PHP
 
 structure of database:
-
+```
 CREATE TABLE `en_ex` (
   `id` int(11) NOT NULL, --id of tabble
   `date` varchar(50) CHARACTER SET utf8mb4 NOT NULL,--Recorded date YYYY/MM/DD
@@ -17,3 +17,4 @@ ALTER TABLE `en_ex`
 ALTER TABLE `en_ex`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
+```
