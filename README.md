@@ -1,5 +1,8 @@
 # Rest-API-with-PHP
 
+- Method: POST
+- url: .../state.php
+
 structure of database:
 ```
 CREATE TABLE `en_ex` (
@@ -18,3 +21,4 @@ ALTER TABLE `en_ex`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
 ```
+This API will insert following data in data-base table. post yuor data to **".../state.php** as bellow:
