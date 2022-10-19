@@ -1,4 +1,4 @@
-## POST device information to Betavers API
+## POST information of device to Betavers API
 
 - Method: POST
 - url: Example.com/...path.../state.php
@@ -56,3 +56,4 @@ r = requests.post(url = API_ENDPOINT, data = data)
 pastebin_url = r.text
 print("The pastebin URL is:%s"%pastebin_url)
 ```
+https://betavers.ir
