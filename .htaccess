@@ -1,2 +1,2 @@
 RewriteEngine on
-rewwriteRule state/(.*)$ state.php?token=$1 [QSA, L]
+rewriteRule state/(.*)$ state.php?token=$1 [QSA, L]
