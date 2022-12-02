@@ -1,0 +1,89 @@
+[28-Apr-2022 20:30:58 Asia/Tehran] PHP Parse error:  syntax error, unexpected '?' in /home/bets/public_html/hn3_student/panel.php on line 73
+[28-Apr-2022 20:35:18 Asia/Tehran] PHP Parse error:  syntax error, unexpected '?' in /home/bets/public_html/hn3_student/panel.php on line 84
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:14:04 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 76
+[29-Apr-2022 08:25:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<' in /home/bets/public_html/hn3_student/panel.php on line 90
+[29-Apr-2022 08:27:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}' in /home/bets/public_html/hn3_student/panel.php on line 21
+[29-Apr-2022 08:27:42 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}' in /home/bets/public_html/hn3_student/panel.php on line 21
+[29-Apr-2022 08:27:43 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}' in /home/bets/public_html/hn3_student/panel.php on line 21
+[29-Apr-2022 08:32:55 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/bets/public_html/hn3_student/panel.php on line 21
+[29-Apr-2022 12:39:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bets/public_html/hn3_student/panel.php:33
+Stack trace:
+#0 /home/bets/public_html/hn3_student/panel.php(159): set_time()
+#1 {main}
+  thrown in /home/bets/public_html/hn3_student/panel.php on line 33
+[29-Apr-2022 12:39:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bets/public_html/hn3_student/panel.php:33
+Stack trace:
+#0 /home/bets/public_html/hn3_student/panel.php(159): set_time()
+#1 {main}
+  thrown in /home/bets/public_html/hn3_student/panel.php on line 33
+[29-Apr-2022 12:39:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bets/public_html/hn3_student/panel.php:33
+Stack trace:
+#0 /home/bets/public_html/hn3_student/panel.php(159): set_time()
+#1 {main}
+  thrown in /home/bets/public_html/hn3_student/panel.php on line 33
+[29-Apr-2022 12:41:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bets/public_html/hn3_student/panel.php:33
+Stack trace:
+#0 /home/bets/public_html/hn3_student/panel.php(159): set_time()
+#1 {main}
+  thrown in /home/bets/public_html/hn3_student/panel.php on line 33
+[29-Apr-2022 12:41:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bets/public_html/hn3_student/panel.php:33
+Stack trace:
+#0 /home/bets/public_html/hn3_student/panel.php(160): set_time()
+#1 {main}
+  thrown in /home/bets/public_html/hn3_student/panel.php on line 33
+[04-May-2022 15:02:59 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/bets/public_html/hn3_student/see_att.php on line 72
+[04-May-2022 15:03:07 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/bets/public_html/hn3_student/see_att.php on line 72
+[04-May-2022 15:19:20 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/bets/public_html/hn3_student/see_att.php on line 32
+[04-May-2022 15:20:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/bets/public_html/hn3_student/see_att.php on line 32
+[04-May-2022 15:22:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/bets/public_html/hn3_student/see_att.php on line 32
+[04-May-2022 15:22:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/bets/public_html/hn3_student/see_att.php on line 32
+[04-May-2022 15:24:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'customers' (T_STRING) in /home/bets/public_html/hn3_student/see_att.php on line 66
+[04-May-2022 15:25:10 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bets/public_html/hn3_student/see_att.php on line 92
+[04-May-2022 15:25:12 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bets/public_html/hn3_student/see_att.php on line 92
+[04-May-2022 15:25:53 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bets/public_html/hn3_student/see_att.php on line 92
+[04-May-2022 15:25:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bets/public_html/hn3_student/see_att.php on line 92
+[04-May-2022 17:05:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/bets/public_html/hn3_student/panel.php on line 174
+[22-Jun-2022 08:57:45 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[11-Jul-2022 09:00:41 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[11-Jul-2022 10:41:29 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[11-Jul-2022 10:41:40 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[25-Jul-2022 23:11:43 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[23-Aug-2022 01:18:01 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[23-Aug-2022 01:18:10 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[23-Aug-2022 01:18:15 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[23-Aug-2022 01:18:18 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 173
+[26-Aug-2022 12:45:58 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[26-Aug-2022 13:03:47 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[02-Sep-2022 15:07:36 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[23-Sep-2022 00:05:07 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[23-Sep-2022 00:05:21 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[23-Sep-2022 01:51:21 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[23-Sep-2022 01:51:54 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[23-Sep-2022 01:54:17 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 186
+[30-Sep-2022 13:07:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$total' (T_VARIABLE) in /home/bets/public_html/hn3_student/panel.php on line 75
+[30-Sep-2022 13:08:51 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$total' (T_VARIABLE) in /home/bets/public_html/hn3_student/panel.php on line 75
+[30-Sep-2022 13:08:52 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$total' (T_VARIABLE) in /home/bets/public_html/hn3_student/panel.php on line 75
+[04-Oct-2022 10:18:54 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:25:01 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:25:08 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:27:01 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:27:08 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:29:00 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:30:36 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:31:42 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:31:50 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:33:45 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:34:18 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[04-Oct-2022 10:34:31 Asia/Tehran] PHP Warning:  Division by zero in /home/bets/public_html/hn3_student/panel.php on line 220
+[14-Oct-2022 15:04:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected ']' in /home/bets/public_html/hn3_student/panel.php on line 406
+[14-Oct-2022 15:04:26 Asia/Tehran] PHP Parse error:  syntax error, unexpected ']' in /home/bets/public_html/hn3_student/panel.php on line 406
+[14-Oct-2022 15:04:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected ']' in /home/bets/public_html/hn3_student/panel.php on line 406
+[14-Oct-2022 15:06:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected ']' in /home/bets/public_html/hn3_student/panel.php on line 406
+[14-Oct-2022 15:07:47 Asia/Tehran] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bets/public_html/hn3_student/panel.php on line 404
