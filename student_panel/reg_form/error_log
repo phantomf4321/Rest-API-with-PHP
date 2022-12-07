@@ -1,0 +1,119 @@
+[28-Apr-2022 17:26:11 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[28-Apr-2022 17:26:11 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[28-Apr-2022 17:26:11 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[28-Apr-2022 17:26:11 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[28-Apr-2022 17:26:11 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[28-Apr-2022 17:26:56 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/login.php on line 3
+[28-Apr-2022 17:26:56 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/login.php on line 27
+[28-Apr-2022 17:26:56 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/bets/public_html/hn3_student/reg_form/login.php on line 29
+[28-Apr-2022 20:05:50 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/login.php on line 3
+[28-Apr-2022 20:05:50 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/login.php on line 27
+[28-Apr-2022 20:05:50 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/bets/public_html/hn3_student/reg_form/login.php on line 29
+[04-May-2022 18:37:15 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[04-May-2022 18:37:15 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[04-May-2022 18:37:15 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[04-May-2022 18:37:15 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[04-May-2022 18:37:15 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[04-May-2022 18:37:18 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[04-May-2022 18:37:18 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[04-May-2022 18:37:18 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[04-May-2022 18:37:18 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[04-May-2022 18:37:18 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[08-May-2022 18:22:20 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[08-May-2022 18:22:20 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[08-May-2022 18:22:20 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[08-May-2022 18:22:20 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[08-May-2022 18:22:20 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[08-May-2022 18:22:22 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[08-May-2022 18:22:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[08-May-2022 18:22:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[08-May-2022 18:22:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[08-May-2022 18:22:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[08-May-2022 18:22:31 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[08-May-2022 18:22:31 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[08-May-2022 18:22:31 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[08-May-2022 18:22:31 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[08-May-2022 18:22:31 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[08-May-2022 18:22:33 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[08-May-2022 18:22:33 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[08-May-2022 18:22:33 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[08-May-2022 18:22:33 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[08-May-2022 18:22:33 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[08-May-2022 18:22:37 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[08-May-2022 18:22:37 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[08-May-2022 18:22:37 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[08-May-2022 18:22:37 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[08-May-2022 18:22:37 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[19-May-2022 23:11:52 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[19-May-2022 23:11:52 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[19-May-2022 23:11:52 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[19-May-2022 23:11:52 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[19-May-2022 23:11:52 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[10-Jun-2022 10:05:55 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[10-Jun-2022 10:05:55 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[10-Jun-2022 10:05:55 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[10-Jun-2022 10:05:55 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[10-Jun-2022 10:05:55 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[28-Aug-2022 22:43:19 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/bets/public_html/hn3_student/reg_form/db_connect.php on line 3
+[28-Aug-2022 22:43:23 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/login.php on line 27
+[28-Aug-2022 22:43:23 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/bets/public_html/hn3_student/reg_form/login.php on line 29
+[23-Sep-2022 15:13:50 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[23-Sep-2022 15:13:50 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[23-Sep-2022 15:13:50 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[23-Sep-2022 15:13:50 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[23-Sep-2022 15:13:50 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[24-Sep-2022 08:53:29 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[24-Sep-2022 08:53:29 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[24-Sep-2022 08:53:29 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[24-Sep-2022 08:53:29 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[24-Sep-2022 08:53:29 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[24-Sep-2022 08:53:39 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[24-Sep-2022 08:53:39 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[24-Sep-2022 08:53:39 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[24-Sep-2022 08:53:39 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[24-Sep-2022 08:53:39 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[24-Sep-2022 17:26:22 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[24-Sep-2022 17:26:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[24-Sep-2022 17:26:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[24-Sep-2022 17:26:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[24-Sep-2022 17:26:22 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[05-Oct-2022 08:39:02 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[05-Oct-2022 08:39:02 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[05-Oct-2022 08:39:02 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[05-Oct-2022 08:39:02 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[05-Oct-2022 08:39:02 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[05-Oct-2022 08:39:06 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[05-Oct-2022 08:39:06 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[05-Oct-2022 08:39:06 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[05-Oct-2022 08:39:06 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[05-Oct-2022 08:39:06 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[09-Oct-2022 22:16:01 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[09-Oct-2022 22:16:01 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[09-Oct-2022 22:16:01 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[09-Oct-2022 22:16:01 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[09-Oct-2022 22:16:01 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[09-Oct-2022 22:16:35 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[09-Oct-2022 22:16:35 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[09-Oct-2022 22:16:35 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[09-Oct-2022 22:16:35 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[09-Oct-2022 22:16:35 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[14-Oct-2022 15:32:30 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[14-Oct-2022 15:32:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[14-Oct-2022 15:32:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[14-Oct-2022 15:32:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[14-Oct-2022 15:32:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[14-Oct-2022 15:32:41 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[14-Oct-2022 15:32:41 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[14-Oct-2022 15:32:41 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[14-Oct-2022 15:32:41 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[14-Oct-2022 15:32:41 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[14-Oct-2022 15:49:24 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[14-Oct-2022 15:49:24 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[14-Oct-2022 15:49:24 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[14-Oct-2022 15:49:24 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[14-Oct-2022 15:49:24 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
+[14-Oct-2022 15:49:30 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bets/public_html/hn3_student/reg_form/index.php on line 144
+[14-Oct-2022 15:49:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 146
+[14-Oct-2022 15:49:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 163
+[14-Oct-2022 15:49:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 174
+[14-Oct-2022 15:49:30 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bets/public_html/hn3_student/reg_form/index.php on line 186
