@@ -22,9 +22,22 @@ if(isset($_GET['student_id']))
     $time = $_GET['time'];
     $date = $_GET['date'];
     //$date = jdate("Y/m/d");
+    
     if($device_id == 1){
         include("db_connect.php");
     }
+    /*
+    if($device_id == 2){
+        include("db_connect2.php");
+    }
+    if($device_id == 3){
+        include("db_connect3.php");
+    }
+    if($device_id == 4){
+        include("db_connect4.php");
+    }...
+    
+    */
     
     
     $sql2 = "SELECT * FROM en_ex WHERE student_id='$student_id' AND date='$date'";
